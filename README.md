@@ -1,5 +1,5 @@
 # Simple CRUD Application
-Simple CRUD Operations using REST API
+Simple CRUD Operations using REST API by Suneth Udayanga
 
 This is a basic CRUD (Create, Read, Update, Delete) application built with Node.js, Express, and a simple HTML front-end. The app allows you to manage a list of items through a RESTful API.
 
