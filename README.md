@@ -22,7 +22,7 @@ npm install
 
 Copy code
 ```bash
-node index.js
+node app.js
 ```
 This will start the Node.js server at http://localhost:3000.
 
@@ -43,7 +43,7 @@ Update items using "Edit" button.
 If you encounter CORS issues during development, make sure to install the cors middleware:
 
 Copy code
-```bash```
+```bash
 npm install cors
 ```
 And then, add the following line to the index.js file:
@@ -53,3 +53,5 @@ Copy code
 app.use(cors());
 ```
 Restart the server after making these changes.
+
+*#### Suneth Udayanga*
